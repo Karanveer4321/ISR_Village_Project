@@ -12,14 +12,14 @@ ISR_Village_Project/
 │   ├── Bajhedi.ipynb
 │   ├── Baroli.ipynb
 │   └── ... (14 villages)
-├── Village_Wise_Data/               — Cleaned CSV data per village
 ├── Gap_Analysis/                    — Gap analysis notebooks
 ├── Indicators/                      — Village development indicator images
 ├── PowerBi/                         — Power BI dashboard file
-├── Manish/                          — Additional analysis & data
-├── Village_Dashboard_1_Final.pbix   — Final Power BI dashboard
-└── *.csv                            — Survey response data
+├── Manish/                          — Additional analysis & dashboards
+└── Village_Dashboard_1_Final.pbix   — Final Power BI dashboard
 ```
+
+> **Note:** The datasets (CSV and Excel files) used in this project are **confidential** and have been excluded from this repository. The notebooks contain the analysis code and outputs but the raw data is not included.
 
 ## 🛠️ Technologies Used
 
@@ -32,7 +32,8 @@ ISR_Village_Project/
 
 1. Clone this repository
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn plotly`
-3. Open the preprocessing notebook first, then explore village-wise analyses
+3. Place the required dataset files in the appropriate directories
+4. Open the preprocessing notebook first, then explore village-wise analyses
 
 ## 📄 License
 
