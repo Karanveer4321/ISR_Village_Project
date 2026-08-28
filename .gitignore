@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Confidential dataset files
+*.csv
+*.xlsx
+*.xls
+cleaned_powerbi.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
