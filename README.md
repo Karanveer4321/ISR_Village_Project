@@ -12,7 +12,7 @@ ISR_Village_Project/
 │   ├── Bajhedi.ipynb
 │   ├── Baroli.ipynb
 │   └── ... (14 villages)
-└── Village_Dashboard_1_Final.pbix   — Final Power BI dashboard
+└── Village_Dashboard.pbix   — Final Power BI dashboard
 ```
 
 > **Note:** The datasets (CSV and Excel files) used in this project are **confidential** and have been excluded from this repository. The notebooks contain the analysis code and outputs but the raw data is not included.
