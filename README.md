@@ -12,10 +12,6 @@ ISR_Village_Project/
 │   ├── Bajhedi.ipynb
 │   ├── Baroli.ipynb
 │   └── ... (14 villages)
-├── Gap_Analysis/                    — Gap analysis notebooks
-├── Indicators/                      — Village development indicator images
-├── PowerBi/                         — Power BI dashboard file
-├── Manish/                          — Additional analysis & dashboards
 └── Village_Dashboard_1_Final.pbix   — Final Power BI dashboard
 ```
 
